@@ -1,5 +1,5 @@
 {
-  "name": "react-native-rename",
+  "name": "@jemmyphan/react-native-rename",
   "version": "2.2.2",
   "description": "Rename react-native app with just one command",
   "main": "lib/index.js",
